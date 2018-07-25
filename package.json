@@ -1,0 +1,32 @@
+{
+<<<<<<< HEAD
+  "name": "torresoff",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "pedro ferreira",
+  "license": "ISC",
+=======
+    "name": "torresoff-api",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index"
+    },
+    "author": "PEdro Ferreira",
+    "license": "ISC",
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "consign": "^0.1.6",
+    "express": "^4.16.3",
+    "express-validator": "^5.2.0",
+    "mysql": "^2.15.0",
+    "nodemon": "^1.17.5",
+    "utf8": "^3.0.0"
+  }
+}
