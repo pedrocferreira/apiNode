@@ -9,7 +9,11 @@ module.exports = function (app) {
 
     });
 <<<<<<< HEAD
+<<<<<<< HEAD
     //Retorna toda lista completa de mercados
+=======
+    //Retorna toda lista completa de mercados  
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
 =======
     //Retorna toda lista completa de mercados  
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
@@ -23,6 +27,7 @@ module.exports = function (app) {
             res.json(mercados);
         });
     })
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 
@@ -44,6 +49,8 @@ module.exports = function (app) {
 
 =======
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+=======
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
 // restorna URL do avatar
     app.get('/torresoff/mercados/avatar', (req, res, err) => {
         var connection = app.persistencia.connectionFactory();
@@ -52,6 +59,7 @@ module.exports = function (app) {
             console.log('....');
             console.log('Sv conectado');
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -59,6 +67,8 @@ module.exports = function (app) {
         });
     });
 =======
+=======
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
             
             
             
@@ -71,6 +81,9 @@ module.exports = function (app) {
             res.json(parceiros);
         })
     })
+<<<<<<< HEAD
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+=======
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
 
 /*
@@ -90,8 +103,11 @@ module.exports = function (app) {
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
 =======
+=======
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
     
    
 }
@@ -100,4 +116,7 @@ module.exports = function (app) {
 
 
 
+<<<<<<< HEAD
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+=======
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600

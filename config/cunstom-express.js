@@ -16,7 +16,11 @@ module.exports =function () {
 
     return app;
 <<<<<<< HEAD
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
 =======
 }
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600

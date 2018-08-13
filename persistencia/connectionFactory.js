@@ -8,6 +8,7 @@ function createDBConnection() {
         database: 'torresoff'
     });
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 }
@@ -20,11 +21,17 @@ module.exports = function () {
     return createDBConnection;
 }
 =======
+=======
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
     
 }
 
 
 module.exports = function () {
     return createDBConnection;
+<<<<<<< HEAD
+}
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+=======
 }
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600

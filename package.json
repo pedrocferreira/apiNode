@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "name": "torresoff",
   "version": "1.0.0",
   "description": "",
@@ -10,6 +11,8 @@
   "author": "pedro ferreira",
   "license": "ISC",
 =======
+=======
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
     "name": "torresoff-api",
     "version": "1.0.0",
     "description": "",
@@ -19,6 +22,9 @@
     },
     "author": "PEdro Ferreira",
     "license": "ISC",
+<<<<<<< HEAD
+>>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
+=======
 >>>>>>> bf849e9136af32159f91045c96f572e89ba5a600
   "dependencies": {
     "body-parser": "^1.18.2",
